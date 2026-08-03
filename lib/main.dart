@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:vroom/screens/login_screen.dart';
+// import 'package:vroom/screens/login_screen.dart';
 // import 'package:vroom/screens/signup_screen.dart';
+import 'package:vroom/screens/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: LoginScreen(),
+      home: HomeScreen(),
       theme:ThemeData(fontFamily: 'Libertinus Math'),
     );
   }
