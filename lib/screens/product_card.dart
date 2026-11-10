@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:vroom/model/product.dart';
-import 'package:vroom/model/cart.dart';
+import 'package:motorly/model/product.dart';
+import 'package:motorly/model/cart.dart';
 
 class ProductCard extends StatelessWidget {
   final Product product;

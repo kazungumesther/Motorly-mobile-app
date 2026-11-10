@@ -2,7 +2,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
-import 'package:vroom/screens/login_screen.dart';
+import 'package:motorly/screens/login_screen.dart';
 
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({super.key});
@@ -45,7 +45,7 @@ class ProfileScreen extends StatelessWidget {
 
     final displayName = user.displayName?.trim().isNotEmpty == true
         ? user.displayName!
-        : 'Vroom User';
+        : 'Motorly User';
 
     return Scaffold(
       appBar: AppBar(

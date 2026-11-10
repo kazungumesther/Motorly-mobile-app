@@ -2,8 +2,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
-import 'package:vroom/model/auth-exception.dart';
-import 'package:vroom/services/auth_api.dart';
+import 'package:motorly/model/auth-exception.dart';
+import 'package:motorly/services/auth_api.dart';
 
 class AuthView extends ChangeNotifier {
   late AuthApi _authApi;

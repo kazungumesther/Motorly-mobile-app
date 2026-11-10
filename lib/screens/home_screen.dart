@@ -2,11 +2,11 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import 'package:vroom/model/cart.dart';
-import 'package:vroom/model/product.dart';
-import 'package:vroom/screens/product_card.dart';
-import 'package:vroom/screens/card_cart.dart';
-import 'package:vroom/screens/profile_screen.dart';
+import 'package:motorly/model/cart.dart';
+import 'package:motorly/model/product.dart';
+import 'package:motorly/screens/product_card.dart';
+import 'package:motorly/screens/card_cart.dart';
+import 'package:motorly/screens/profile_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

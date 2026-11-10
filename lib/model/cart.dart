@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:vroom/model/product.dart';
+import 'package:motorly/model/product.dart';
 
 class CartItem {
   final Product product;

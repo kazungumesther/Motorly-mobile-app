@@ -3,10 +3,10 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:firebase_core/firebase_core.dart';
 
-import 'package:vroom/screens/home_screen.dart';
-import 'package:vroom/model/cart.dart';
-import 'package:vroom/screens/login_screen.dart';
-import 'package:vroom/view_model/auth_view.dart';
+import 'package:motorly/screens/home_screen.dart';
+import 'package:motorly/model/cart.dart';
+import 'package:motorly/screens/login_screen.dart';
+import 'package:motorly/view_model/auth_view.dart';
 
 import 'firebase_options.dart';
 

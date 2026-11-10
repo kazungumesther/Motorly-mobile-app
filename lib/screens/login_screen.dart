@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import 'package:vroom/view_model/auth_view.dart';
+import 'package:motorly/view_model/auth_view.dart';
 import 'signup_screen.dart';
 import 'home_screen.dart';
 

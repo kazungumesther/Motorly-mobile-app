@@ -1,7 +1,7 @@
 
 import 'package:firebase_auth/firebase_auth.dart';
 
-import 'package:vroom/model/auth-exception.dart';
+import 'package:motorly/model/auth-exception.dart';
 
 class AuthApi {
   final FirebaseAuth _firebaseAuth;

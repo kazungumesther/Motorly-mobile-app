@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:vroom/model/cart.dart';
+import 'package:motorly/model/cart.dart';
 
 class CardCart extends StatelessWidget {
   const CardCart({super.key});
