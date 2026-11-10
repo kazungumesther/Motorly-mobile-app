@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638619979282",
+    "project_id": "vroom-4c547",
+    "storage_bucket": "vroom-4c547.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638619979282:android:1601f033365b2f97a512cb",
+        "android_client_info": {
+          "package_name": "com.example.vroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638619979282-2puk4n1mblq3s9j7hbbtohagol8hjeii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4tXqq0pKB10FRimDw-A4iP35KvWwZGyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638619979282-2puk4n1mblq3s9j7hbbtohagol8hjeii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
