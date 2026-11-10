@@ -141,5 +141,5 @@ Users can:
 - Integrate secure vehicle checkout and payment functionality.
 
 ## Author
-
+Esther Kazungu
 Developed using Flutter and Firebase.
